@@ -1,0 +1,15 @@
+matplotlib
+matplotlib-inline
+numpy
+openpyxl
+pandas==1.3.3
+pandocfilters
+requests==2.26.0
+retrying==1.3.3
+scikit-learn
+scipy
+seaborn
+statsmodels
+XlsxWriter
+xlwt==1.3.0
+zipp
